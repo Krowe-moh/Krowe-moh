@@ -1,6 +1,4 @@
-## <h1>Kosuri</h1>
-
-Kosuri/Kosurii/Kos
+## <h1>Krowe moh</h1>
 
 -------
 
