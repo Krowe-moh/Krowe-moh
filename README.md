@@ -6,6 +6,13 @@ About Me:
 I am a 15-18 yo.
 I code for fun.
 =======
+
+
+<h3 align="left">Github Stats:</h3>
+<a href="https://github.com/Krowe-moh" target="_self"> <img src="https://github-readme-stats.vercel.app/api?username=Krowe-moh&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
+<a href="https://github.com/Krowe-moh" target="_self"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krowe-moh&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
+
+
 <h3 align="left">Languages:</h3>
  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank">
 
