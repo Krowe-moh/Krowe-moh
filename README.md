@@ -10,7 +10,6 @@ I code for fun.
 
 <h3 align="left">Github Stats:</h3>
 <a href="https://github.com/Krowe-moh" target="_self"> <img src="https://github-readme-stats.vercel.app/api?username=Krowe-moh&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
-<a href="https://github.com/Krowe-moh" target="_self"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krowe-moh&&show_icon=true&title_color=faa1ff&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/> </a>
 
 
 <h3 align="left">Languages:</h3>
